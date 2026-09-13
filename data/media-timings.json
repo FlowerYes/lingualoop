@@ -1,0 +1,1755 @@
+{
+  "cafe-madrid": {
+    "duration": 10.8,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 3.653,
+        "text": "Hola, un café con leche, por favor.",
+        "translation": "Hi, a coffee with milk, please.",
+        "words": [
+          {
+            "surface": "Hola,",
+            "lemma": "hola",
+            "translation": "hello; hi"
+          },
+          {
+            "surface": "un",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "café",
+            "lemma": "café",
+            "translation": "coffee"
+          },
+          {
+            "surface": "con",
+            "lemma": "con",
+            "translation": "with"
+          },
+          {
+            "surface": "leche,",
+            "lemma": "leche",
+            "translation": "milk"
+          },
+          {
+            "surface": "por",
+            "lemma": "por",
+            "translation": "for; through; along"
+          },
+          {
+            "surface": "favor.",
+            "lemma": "favor",
+            "translation": "favor"
+          }
+        ]
+      },
+      {
+        "start": 3.653,
+        "end": 5.795,
+        "text": "¿Para tomar aquí o para llevar?",
+        "translation": "To have here or to go?",
+        "words": [
+          {
+            "surface": "¿Para",
+            "lemma": "para",
+            "translation": "for; to"
+          },
+          {
+            "surface": "tomar",
+            "lemma": "tomar",
+            "translation": "to have; to drink"
+          },
+          {
+            "surface": "aquí",
+            "lemma": "aquí",
+            "translation": "here"
+          },
+          {
+            "surface": "o",
+            "lemma": "o",
+            "translation": "or"
+          },
+          {
+            "surface": "para",
+            "lemma": "para",
+            "translation": "for; to"
+          },
+          {
+            "surface": "llevar?",
+            "lemma": "llevar",
+            "translation": "to take; to bring"
+          }
+        ]
+      },
+      {
+        "start": 5.795,
+        "end": 10.8,
+        "text": "Para tomar aquí. Me gusta esta terraza.",
+        "translation": "To have here. I like this terrace.",
+        "words": [
+          {
+            "surface": "Para",
+            "lemma": "para",
+            "translation": "for; to"
+          },
+          {
+            "surface": "tomar",
+            "lemma": "tomar",
+            "translation": "to have; to drink"
+          },
+          {
+            "surface": "aquí.",
+            "lemma": "aquí",
+            "translation": "here"
+          },
+          {
+            "surface": "Me",
+            "lemma": "me",
+            "translation": "me; to me"
+          },
+          {
+            "surface": "gusta",
+            "lemma": "gustar",
+            "translation": "like"
+          },
+          {
+            "surface": "esta",
+            "lemma": "este",
+            "translation": "this"
+          },
+          {
+            "surface": "terraza.",
+            "lemma": "terraza",
+            "translation": "terrace; outdoor seating"
+          }
+        ]
+      }
+    ]
+  },
+  "mercado-colores": {
+    "duration": 10.885,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 4.136,
+        "text": "Mira estos tomates. Son rojos y grandes.",
+        "translation": "Look at these tomatoes. They are red and big.",
+        "words": [
+          {
+            "surface": "Mira",
+            "lemma": "mirar",
+            "translation": "look"
+          },
+          {
+            "surface": "estos",
+            "lemma": "este",
+            "translation": "these"
+          },
+          {
+            "surface": "tomates.",
+            "lemma": "tomate",
+            "translation": "tomatoes"
+          },
+          {
+            "surface": "Son",
+            "lemma": "ser",
+            "translation": "are"
+          },
+          {
+            "surface": "rojos",
+            "lemma": "rojo",
+            "translation": "red"
+          },
+          {
+            "surface": "y",
+            "lemma": "y",
+            "translation": "and"
+          },
+          {
+            "surface": "grandes.",
+            "lemma": "grande",
+            "translation": "big; large"
+          }
+        ]
+      },
+      {
+        "start": 4.136,
+        "end": 6.826,
+        "text": "También hay naranjas y pimientos.",
+        "translation": "There are also oranges and peppers.",
+        "words": [
+          {
+            "surface": "También",
+            "lemma": "también",
+            "translation": "also; too"
+          },
+          {
+            "surface": "hay",
+            "lemma": "haber",
+            "translation": "there is; there are"
+          },
+          {
+            "surface": "naranjas",
+            "lemma": "naranja",
+            "translation": "oranges"
+          },
+          {
+            "surface": "y",
+            "lemma": "y",
+            "translation": "and"
+          },
+          {
+            "surface": "pimientos.",
+            "lemma": "pimiento",
+            "translation": "peppers"
+          }
+        ]
+      },
+      {
+        "start": 6.826,
+        "end": 10.885,
+        "text": "Quiero una bolsa de tomates, por favor.",
+        "translation": "I would like a bag of tomatoes, please.",
+        "words": [
+          {
+            "surface": "Quiero",
+            "lemma": "querer",
+            "translation": "I want; I would like"
+          },
+          {
+            "surface": "una",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "bolsa",
+            "lemma": "bolsa",
+            "translation": "bag"
+          },
+          {
+            "surface": "de",
+            "lemma": "de",
+            "translation": "of; from"
+          },
+          {
+            "surface": "tomates,",
+            "lemma": "tomate",
+            "translation": "tomatoes"
+          },
+          {
+            "surface": "por",
+            "lemma": "por",
+            "translation": "for; through; along"
+          },
+          {
+            "surface": "favor.",
+            "lemma": "favor",
+            "translation": "favor"
+          }
+        ]
+      }
+    ]
+  },
+  "calle-granada": {
+    "duration": 10.8,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 2.999,
+        "text": "Esta calle es pequeña y muy bonita.",
+        "translation": "This street is small and very pretty.",
+        "words": [
+          {
+            "surface": "Esta",
+            "lemma": "este",
+            "translation": "this"
+          },
+          {
+            "surface": "calle",
+            "lemma": "calle",
+            "translation": "street"
+          },
+          {
+            "surface": "es",
+            "lemma": "ser",
+            "translation": "is"
+          },
+          {
+            "surface": "pequeña",
+            "lemma": "pequeño",
+            "translation": "small"
+          },
+          {
+            "surface": "y",
+            "lemma": "y",
+            "translation": "and"
+          },
+          {
+            "surface": "muy",
+            "lemma": "muy",
+            "translation": "very"
+          },
+          {
+            "surface": "bonita.",
+            "lemma": "bonito",
+            "translation": "pretty; lovely"
+          }
+        ]
+      },
+      {
+        "start": 2.999,
+        "end": 7,
+        "text": "Las casas son blancas. Hay muchas flores.",
+        "translation": "The houses are white. There are lots of flowers.",
+        "words": [
+          {
+            "surface": "Las",
+            "lemma": "el",
+            "translation": "the; them"
+          },
+          {
+            "surface": "casas",
+            "lemma": "casa",
+            "translation": "houses"
+          },
+          {
+            "surface": "son",
+            "lemma": "ser",
+            "translation": "are"
+          },
+          {
+            "surface": "blancas.",
+            "lemma": "blanco",
+            "translation": "white"
+          },
+          {
+            "surface": "Hay",
+            "lemma": "haber",
+            "translation": "there is; there are"
+          },
+          {
+            "surface": "muchas",
+            "lemma": "mucho",
+            "translation": "many; lots of"
+          },
+          {
+            "surface": "flores.",
+            "lemma": "flor",
+            "translation": "flowers"
+          }
+        ]
+      },
+      {
+        "start": 7,
+        "end": 10.8,
+        "text": "Vamos a caminar un poco más.",
+        "translation": "Let's walk a little further.",
+        "words": [
+          {
+            "surface": "Vamos",
+            "lemma": "ir",
+            "translation": "let's; we go"
+          },
+          {
+            "surface": "a",
+            "lemma": "a",
+            "translation": "to; at"
+          },
+          {
+            "surface": "caminar",
+            "lemma": "caminar",
+            "translation": "to walk"
+          },
+          {
+            "surface": "un",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "poco",
+            "lemma": "poco",
+            "translation": "a little"
+          },
+          {
+            "surface": "más.",
+            "lemma": "más",
+            "translation": "more; further"
+          }
+        ]
+      }
+    ]
+  },
+  "desayuno-sin-prisa": {
+    "duration": 10.8,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 3.019,
+        "text": "Los domingos desayuno fuera de casa.",
+        "translation": "On Sundays I have breakfast away from home.",
+        "words": [
+          {
+            "surface": "Los",
+            "lemma": "el",
+            "translation": "the; the ones"
+          },
+          {
+            "surface": "domingos",
+            "lemma": "domingo",
+            "translation": "Sundays"
+          },
+          {
+            "surface": "desayuno",
+            "lemma": "desayunar",
+            "translation": "I have breakfast"
+          },
+          {
+            "surface": "fuera",
+            "lemma": "fuera",
+            "translation": "outside; away"
+          },
+          {
+            "surface": "de",
+            "lemma": "de",
+            "translation": "of; from"
+          },
+          {
+            "surface": "casa.",
+            "lemma": "casa",
+            "translation": "home; house"
+          }
+        ]
+      },
+      {
+        "start": 3.019,
+        "end": 5.12,
+        "text": "Pido un café y algo dulce.",
+        "translation": "I order a coffee and something sweet.",
+        "words": [
+          {
+            "surface": "Pido",
+            "lemma": "pedir",
+            "translation": "I order; I ask for"
+          },
+          {
+            "surface": "un",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "café",
+            "lemma": "café",
+            "translation": "coffee"
+          },
+          {
+            "surface": "y",
+            "lemma": "y",
+            "translation": "and"
+          },
+          {
+            "surface": "algo",
+            "lemma": "algo",
+            "translation": "something"
+          },
+          {
+            "surface": "dulce.",
+            "lemma": "dulce",
+            "translation": "sweet; a sweet treat"
+          }
+        ]
+      },
+      {
+        "start": 5.12,
+        "end": 10.8,
+        "text": "Lo mejor es sentarse al sol y leer tranquilamente.",
+        "translation": "The best part is sitting in the sun and reading peacefully.",
+        "words": [
+          {
+            "surface": "Lo",
+            "lemma": "lo",
+            "translation": "it; the thing that"
+          },
+          {
+            "surface": "mejor",
+            "lemma": "mejor",
+            "translation": "best; better"
+          },
+          {
+            "surface": "es",
+            "lemma": "ser",
+            "translation": "is"
+          },
+          {
+            "surface": "sentarse",
+            "lemma": "sentarse",
+            "translation": "to sit down"
+          },
+          {
+            "surface": "al",
+            "lemma": "a + el",
+            "translation": "to the; in the"
+          },
+          {
+            "surface": "sol",
+            "lemma": "sol",
+            "translation": "sun"
+          },
+          {
+            "surface": "y",
+            "lemma": "y",
+            "translation": "and"
+          },
+          {
+            "surface": "leer",
+            "lemma": "leer",
+            "translation": "to read"
+          },
+          {
+            "surface": "tranquilamente.",
+            "lemma": "tranquilamente",
+            "translation": "peacefully; calmly"
+          }
+        ]
+      }
+    ]
+  },
+  "perderse-granada": {
+    "duration": 10.8,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 3.554,
+        "text": "Para llegar al mirador, sube por esta calle.",
+        "translation": "To get to the viewpoint, go up this street.",
+        "words": [
+          {
+            "surface": "Para",
+            "lemma": "para",
+            "translation": "for; to"
+          },
+          {
+            "surface": "llegar",
+            "lemma": "llegar",
+            "translation": "to arrive; to get to"
+          },
+          {
+            "surface": "al",
+            "lemma": "a + el",
+            "translation": "to the; in the"
+          },
+          {
+            "surface": "mirador,",
+            "lemma": "mirador",
+            "translation": "viewpoint; lookout"
+          },
+          {
+            "surface": "sube",
+            "lemma": "subir",
+            "translation": "go up"
+          },
+          {
+            "surface": "por",
+            "lemma": "por",
+            "translation": "for; through; along"
+          },
+          {
+            "surface": "esta",
+            "lemma": "este",
+            "translation": "this"
+          },
+          {
+            "surface": "calle.",
+            "lemma": "calle",
+            "translation": "street"
+          }
+        ]
+      },
+      {
+        "start": 3.554,
+        "end": 7.249,
+        "text": "Después gira a la derecha, junto a las flores.",
+        "translation": "Then turn right, next to the flowers.",
+        "words": [
+          {
+            "surface": "Después",
+            "lemma": "después",
+            "translation": "then; afterwards"
+          },
+          {
+            "surface": "gira",
+            "lemma": "girar",
+            "translation": "turn"
+          },
+          {
+            "surface": "a",
+            "lemma": "a",
+            "translation": "to; at"
+          },
+          {
+            "surface": "la",
+            "lemma": "el",
+            "translation": "the"
+          },
+          {
+            "surface": "derecha,",
+            "lemma": "derecha",
+            "translation": "right"
+          },
+          {
+            "surface": "junto",
+            "lemma": "junto",
+            "translation": "next to"
+          },
+          {
+            "surface": "a",
+            "lemma": "a",
+            "translation": "to; at"
+          },
+          {
+            "surface": "las",
+            "lemma": "el",
+            "translation": "the; them"
+          },
+          {
+            "surface": "flores.",
+            "lemma": "flor",
+            "translation": "flowers"
+          }
+        ]
+      },
+      {
+        "start": 7.249,
+        "end": 10.8,
+        "text": "Las vistas merecen la pena.",
+        "translation": "The views are worth it.",
+        "words": [
+          {
+            "surface": "Las",
+            "lemma": "el",
+            "translation": "the; them"
+          },
+          {
+            "surface": "vistas",
+            "lemma": "vista",
+            "translation": "views"
+          },
+          {
+            "surface": "merecen",
+            "lemma": "merecer",
+            "translation": "are worth"
+          },
+          {
+            "surface": "la",
+            "lemma": "el",
+            "translation": "the"
+          },
+          {
+            "surface": "pena.",
+            "lemma": "pena",
+            "translation": "trouble; effort"
+          }
+        ]
+      }
+    ]
+  },
+  "paseo-verde": {
+    "duration": 10.8,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 2.932,
+        "text": "Hoy hemos salido temprano para caminar.",
+        "translation": "Today we set out early to go walking.",
+        "words": [
+          {
+            "surface": "Hoy",
+            "lemma": "hoy",
+            "translation": "today"
+          },
+          {
+            "surface": "hemos",
+            "lemma": "haber",
+            "translation": "we have"
+          },
+          {
+            "surface": "salido",
+            "lemma": "salir",
+            "translation": "set out; left"
+          },
+          {
+            "surface": "temprano",
+            "lemma": "temprano",
+            "translation": "early"
+          },
+          {
+            "surface": "para",
+            "lemma": "para",
+            "translation": "for; to"
+          },
+          {
+            "surface": "caminar.",
+            "lemma": "caminar",
+            "translation": "to walk"
+          }
+        ]
+      },
+      {
+        "start": 2.932,
+        "end": 6.167,
+        "text": "El aire está fresco y el camino está tranquilo.",
+        "translation": "The air is cool and the trail is quiet.",
+        "words": [
+          {
+            "surface": "El",
+            "lemma": "el",
+            "translation": "the"
+          },
+          {
+            "surface": "aire",
+            "lemma": "aire",
+            "translation": "air"
+          },
+          {
+            "surface": "está",
+            "lemma": "estar",
+            "translation": "is"
+          },
+          {
+            "surface": "fresco",
+            "lemma": "fresco",
+            "translation": "cool; fresh"
+          },
+          {
+            "surface": "y",
+            "lemma": "y",
+            "translation": "and"
+          },
+          {
+            "surface": "el",
+            "lemma": "el",
+            "translation": "the"
+          },
+          {
+            "surface": "camino",
+            "lemma": "camino",
+            "translation": "path; trail"
+          },
+          {
+            "surface": "está",
+            "lemma": "estar",
+            "translation": "is"
+          },
+          {
+            "surface": "tranquilo.",
+            "lemma": "tranquilo",
+            "translation": "quiet; peaceful"
+          }
+        ]
+      },
+      {
+        "start": 6.167,
+        "end": 10.8,
+        "text": "Lleva agua y unos zapatos cómodos.",
+        "translation": "Bring water and comfortable shoes.",
+        "words": [
+          {
+            "surface": "Lleva",
+            "lemma": "llevar",
+            "translation": "bring; take"
+          },
+          {
+            "surface": "agua",
+            "lemma": "agua",
+            "translation": "water"
+          },
+          {
+            "surface": "y",
+            "lemma": "y",
+            "translation": "and"
+          },
+          {
+            "surface": "unos",
+            "lemma": "un",
+            "translation": "some; a pair of"
+          },
+          {
+            "surface": "zapatos",
+            "lemma": "zapato",
+            "translation": "shoes"
+          },
+          {
+            "surface": "cómodos.",
+            "lemma": "cómodo",
+            "translation": "comfortable"
+          }
+        ]
+      }
+    ]
+  },
+  "tomate-temporada": {
+    "duration": 11.22,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 3.622,
+        "text": "Cuando compro tomates, prefiero los de temporada.",
+        "translation": "When I buy tomatoes, I prefer the seasonal ones.",
+        "words": [
+          {
+            "surface": "Cuando",
+            "lemma": "cuando",
+            "translation": "when"
+          },
+          {
+            "surface": "compro",
+            "lemma": "comprar",
+            "translation": "I buy"
+          },
+          {
+            "surface": "tomates,",
+            "lemma": "tomate",
+            "translation": "tomatoes"
+          },
+          {
+            "surface": "prefiero",
+            "lemma": "preferir",
+            "translation": "I prefer"
+          },
+          {
+            "surface": "los",
+            "lemma": "el",
+            "translation": "the; the ones"
+          },
+          {
+            "surface": "de",
+            "lemma": "de",
+            "translation": "of; from"
+          },
+          {
+            "surface": "temporada.",
+            "lemma": "temporada",
+            "translation": "season"
+          }
+        ]
+      },
+      {
+        "start": 3.622,
+        "end": 6.764,
+        "text": "No hace falta que tengan una forma perfecta.",
+        "translation": "They don't need to have a perfect shape.",
+        "words": [
+          {
+            "surface": "No",
+            "lemma": "no",
+            "translation": "not; no"
+          },
+          {
+            "surface": "hace",
+            "lemma": "hacer",
+            "translation": "does; makes"
+          },
+          {
+            "surface": "falta",
+            "lemma": "falta",
+            "translation": "need"
+          },
+          {
+            "surface": "que",
+            "lemma": "que",
+            "translation": "that; which"
+          },
+          {
+            "surface": "tengan",
+            "lemma": "tener",
+            "translation": "they have"
+          },
+          {
+            "surface": "una",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "forma",
+            "lemma": "forma",
+            "translation": "shape; form"
+          },
+          {
+            "surface": "perfecta.",
+            "lemma": "perfecto",
+            "translation": "perfect"
+          }
+        ]
+      },
+      {
+        "start": 6.764,
+        "end": 11.22,
+        "text": "Si huelen bien, seguramente tendrán mucho sabor.",
+        "translation": "If they smell good, they will probably have lots of flavor.",
+        "words": [
+          {
+            "surface": "Si",
+            "lemma": "si",
+            "translation": "if"
+          },
+          {
+            "surface": "huelen",
+            "lemma": "oler",
+            "translation": "they smell"
+          },
+          {
+            "surface": "bien,",
+            "lemma": "bien",
+            "translation": "well; good"
+          },
+          {
+            "surface": "seguramente",
+            "lemma": "seguramente",
+            "translation": "probably"
+          },
+          {
+            "surface": "tendrán",
+            "lemma": "tener",
+            "translation": "they will have"
+          },
+          {
+            "surface": "mucho",
+            "lemma": "mucho",
+            "translation": "a lot of; much"
+          },
+          {
+            "surface": "sabor.",
+            "lemma": "sabor",
+            "translation": "flavor; taste"
+          }
+        ]
+      }
+    ]
+  },
+  "patios-con-historia": {
+    "duration": 10.8,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 3.629,
+        "text": "Antes de mirar el mapa, me gusta observar las casas.",
+        "translation": "Before looking at the map, I like to observe the houses.",
+        "words": [
+          {
+            "surface": "Antes",
+            "lemma": "antes",
+            "translation": "before"
+          },
+          {
+            "surface": "de",
+            "lemma": "de",
+            "translation": "of; from"
+          },
+          {
+            "surface": "mirar",
+            "lemma": "mirar",
+            "translation": "to look at"
+          },
+          {
+            "surface": "el",
+            "lemma": "el",
+            "translation": "the"
+          },
+          {
+            "surface": "mapa,",
+            "lemma": "mapa",
+            "translation": "map"
+          },
+          {
+            "surface": "me",
+            "lemma": "me",
+            "translation": "me; to me"
+          },
+          {
+            "surface": "gusta",
+            "lemma": "gustar",
+            "translation": "like"
+          },
+          {
+            "surface": "observar",
+            "lemma": "observar",
+            "translation": "to observe; to notice"
+          },
+          {
+            "surface": "las",
+            "lemma": "el",
+            "translation": "the; them"
+          },
+          {
+            "surface": "casas.",
+            "lemma": "casa",
+            "translation": "houses"
+          }
+        ]
+      },
+      {
+        "start": 3.629,
+        "end": 6.624,
+        "text": "Cada puerta parece guardar una historia distinta.",
+        "translation": "Every door seems to hold a different story.",
+        "words": [
+          {
+            "surface": "Cada",
+            "lemma": "cada",
+            "translation": "each; every"
+          },
+          {
+            "surface": "puerta",
+            "lemma": "puerta",
+            "translation": "door"
+          },
+          {
+            "surface": "parece",
+            "lemma": "parecer",
+            "translation": "seems"
+          },
+          {
+            "surface": "guardar",
+            "lemma": "guardar",
+            "translation": "to keep; to hold"
+          },
+          {
+            "surface": "una",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "historia",
+            "lemma": "historia",
+            "translation": "story; history"
+          },
+          {
+            "surface": "distinta.",
+            "lemma": "distinto",
+            "translation": "different"
+          }
+        ]
+      },
+      {
+        "start": 6.624,
+        "end": 10.8,
+        "text": "Por eso siempre acabo caminando más de lo previsto.",
+        "translation": "That's why I always end up walking further than planned.",
+        "words": [
+          {
+            "surface": "Por",
+            "lemma": "por",
+            "translation": "for; through; along"
+          },
+          {
+            "surface": "eso",
+            "lemma": "eso",
+            "translation": "that"
+          },
+          {
+            "surface": "siempre",
+            "lemma": "siempre",
+            "translation": "always"
+          },
+          {
+            "surface": "acabo",
+            "lemma": "acabar",
+            "translation": "I end up"
+          },
+          {
+            "surface": "caminando",
+            "lemma": "caminar",
+            "translation": "walking"
+          },
+          {
+            "surface": "más",
+            "lemma": "más",
+            "translation": "more; further"
+          },
+          {
+            "surface": "de",
+            "lemma": "de",
+            "translation": "of; from"
+          },
+          {
+            "surface": "lo",
+            "lemma": "lo",
+            "translation": "it; the thing that"
+          },
+          {
+            "surface": "previsto.",
+            "lemma": "prever",
+            "translation": "planned; expected"
+          }
+        ]
+      }
+    ]
+  },
+  "charla-terraza": {
+    "duration": 10.8,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 3.456,
+        "text": "En cuanto tengo un rato libre, llamo a una amiga.",
+        "translation": "As soon as I have a free moment, I call a friend.",
+        "words": [
+          {
+            "surface": "En",
+            "lemma": "en",
+            "translation": "in; on; at"
+          },
+          {
+            "surface": "cuanto",
+            "lemma": "cuanto",
+            "translation": "as; the"
+          },
+          {
+            "surface": "tengo",
+            "lemma": "tener",
+            "translation": "I have"
+          },
+          {
+            "surface": "un",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "rato",
+            "lemma": "rato",
+            "translation": "a while; a moment"
+          },
+          {
+            "surface": "libre,",
+            "lemma": "libre",
+            "translation": "free; available"
+          },
+          {
+            "surface": "llamo",
+            "lemma": "llamar",
+            "translation": "I call"
+          },
+          {
+            "surface": "a",
+            "lemma": "a",
+            "translation": "to; at"
+          },
+          {
+            "surface": "una",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "amiga.",
+            "lemma": "amigo",
+            "translation": "female friend"
+          }
+        ]
+      },
+      {
+        "start": 3.456,
+        "end": 6.341,
+        "text": "Quedamos en una terraza para ponernos al día.",
+        "translation": "We meet on a terrace to catch up.",
+        "words": [
+          {
+            "surface": "Quedamos",
+            "lemma": "quedar",
+            "translation": "we meet; we arrange to meet"
+          },
+          {
+            "surface": "en",
+            "lemma": "en",
+            "translation": "in; on; at"
+          },
+          {
+            "surface": "una",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "terraza",
+            "lemma": "terraza",
+            "translation": "terrace; outdoor seating"
+          },
+          {
+            "surface": "para",
+            "lemma": "para",
+            "translation": "for; to"
+          },
+          {
+            "surface": "ponernos",
+            "lemma": "ponerse",
+            "translation": "for us to get"
+          },
+          {
+            "surface": "al",
+            "lemma": "a + el",
+            "translation": "to the; in the"
+          },
+          {
+            "surface": "día.",
+            "lemma": "día",
+            "translation": "day"
+          }
+        ]
+      },
+      {
+        "start": 6.341,
+        "end": 10.8,
+        "text": "A veces un café se convierte en toda una tarde.",
+        "translation": "Sometimes a coffee turns into an entire afternoon.",
+        "words": [
+          {
+            "surface": "A",
+            "lemma": "a",
+            "translation": "to; at"
+          },
+          {
+            "surface": "veces",
+            "lemma": "vez",
+            "translation": "times"
+          },
+          {
+            "surface": "un",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "café",
+            "lemma": "café",
+            "translation": "coffee"
+          },
+          {
+            "surface": "se",
+            "lemma": "se",
+            "translation": "reflexive marker"
+          },
+          {
+            "surface": "convierte",
+            "lemma": "convertir",
+            "translation": "turns into"
+          },
+          {
+            "surface": "en",
+            "lemma": "en",
+            "translation": "in; on; at"
+          },
+          {
+            "surface": "toda",
+            "lemma": "todo",
+            "translation": "whole; entire"
+          },
+          {
+            "surface": "una",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "tarde.",
+            "lemma": "tarde",
+            "translation": "afternoon"
+          }
+        ]
+      }
+    ]
+  },
+  "montana-silencio": {
+    "duration": 11.386,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 3.871,
+        "text": "Aunque la subida sea exigente, merece la pena detenerse.",
+        "translation": "Although the climb is demanding, it is worth stopping.",
+        "words": [
+          {
+            "surface": "Aunque",
+            "lemma": "aunque",
+            "translation": "although; even if"
+          },
+          {
+            "surface": "la",
+            "lemma": "el",
+            "translation": "the"
+          },
+          {
+            "surface": "subida",
+            "lemma": "subida",
+            "translation": "climb; uphill stretch"
+          },
+          {
+            "surface": "sea",
+            "lemma": "ser",
+            "translation": "is; may be"
+          },
+          {
+            "surface": "exigente,",
+            "lemma": "exigente",
+            "translation": "demanding; challenging"
+          },
+          {
+            "surface": "merece",
+            "lemma": "merecer",
+            "translation": "is worth"
+          },
+          {
+            "surface": "la",
+            "lemma": "el",
+            "translation": "the"
+          },
+          {
+            "surface": "pena",
+            "lemma": "pena",
+            "translation": "trouble; effort"
+          },
+          {
+            "surface": "detenerse.",
+            "lemma": "detenerse",
+            "translation": "to stop; to pause"
+          }
+        ]
+      },
+      {
+        "start": 3.871,
+        "end": 7.297,
+        "text": "Cuanto menos ruido hacemos, más detalles percibimos.",
+        "translation": "The less noise we make, the more details we notice.",
+        "words": [
+          {
+            "surface": "Cuanto",
+            "lemma": "cuanto",
+            "translation": "as; the"
+          },
+          {
+            "surface": "menos",
+            "lemma": "menos",
+            "translation": "less; fewer"
+          },
+          {
+            "surface": "ruido",
+            "lemma": "ruido",
+            "translation": "noise"
+          },
+          {
+            "surface": "hacemos,",
+            "lemma": "hacer",
+            "translation": "we make; we do"
+          },
+          {
+            "surface": "más",
+            "lemma": "más",
+            "translation": "more; further"
+          },
+          {
+            "surface": "detalles",
+            "lemma": "detalle",
+            "translation": "details"
+          },
+          {
+            "surface": "percibimos.",
+            "lemma": "percibir",
+            "translation": "we notice; we perceive"
+          }
+        ]
+      },
+      {
+        "start": 7.297,
+        "end": 11.386,
+        "text": "Ojalá aprendiéramos a llevar esa calma a la vida cotidiana.",
+        "translation": "I wish we could learn to bring that calm into everyday life.",
+        "words": [
+          {
+            "surface": "Ojalá",
+            "lemma": "ojalá",
+            "translation": "I wish; hopefully"
+          },
+          {
+            "surface": "aprendiéramos",
+            "lemma": "aprender",
+            "translation": "we learned; we could learn"
+          },
+          {
+            "surface": "a",
+            "lemma": "a",
+            "translation": "to; at"
+          },
+          {
+            "surface": "llevar",
+            "lemma": "llevar",
+            "translation": "to take; to bring"
+          },
+          {
+            "surface": "esa",
+            "lemma": "ese",
+            "translation": "that"
+          },
+          {
+            "surface": "calma",
+            "lemma": "calma",
+            "translation": "calm; peacefulness"
+          },
+          {
+            "surface": "a",
+            "lemma": "a",
+            "translation": "to; at"
+          },
+          {
+            "surface": "la",
+            "lemma": "el",
+            "translation": "the"
+          },
+          {
+            "surface": "vida",
+            "lemma": "vida",
+            "translation": "life"
+          },
+          {
+            "surface": "cotidiana.",
+            "lemma": "cotidiano",
+            "translation": "everyday; daily"
+          }
+        ]
+      }
+    ]
+  },
+  "comprar-cercano": {
+    "duration": 11.625,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 4.024,
+        "text": "Si dependiera de mí, dedicaríamos más tiempo a comprar cerca.",
+        "translation": "If it were up to me, we would spend more time shopping locally.",
+        "words": [
+          {
+            "surface": "Si",
+            "lemma": "si",
+            "translation": "if"
+          },
+          {
+            "surface": "dependiera",
+            "lemma": "depender",
+            "translation": "it depended"
+          },
+          {
+            "surface": "de",
+            "lemma": "de",
+            "translation": "of; from"
+          },
+          {
+            "surface": "mí,",
+            "lemma": "mí",
+            "translation": "me"
+          },
+          {
+            "surface": "dedicaríamos",
+            "lemma": "dedicar",
+            "translation": "we would devote"
+          },
+          {
+            "surface": "más",
+            "lemma": "más",
+            "translation": "more; further"
+          },
+          {
+            "surface": "tiempo",
+            "lemma": "tiempo",
+            "translation": "time"
+          },
+          {
+            "surface": "a",
+            "lemma": "a",
+            "translation": "to; at"
+          },
+          {
+            "surface": "comprar",
+            "lemma": "comprar",
+            "translation": "to buy; to shop"
+          },
+          {
+            "surface": "cerca.",
+            "lemma": "cerca",
+            "translation": "nearby; locally"
+          }
+        ]
+      },
+      {
+        "start": 4.024,
+        "end": 7.119,
+        "text": "No se trata únicamente de elegir buenos ingredientes.",
+        "translation": "It isn't only about choosing good ingredients.",
+        "words": [
+          {
+            "surface": "No",
+            "lemma": "no",
+            "translation": "not; no"
+          },
+          {
+            "surface": "se",
+            "lemma": "se",
+            "translation": "reflexive marker"
+          },
+          {
+            "surface": "trata",
+            "lemma": "tratar",
+            "translation": "is about"
+          },
+          {
+            "surface": "únicamente",
+            "lemma": "únicamente",
+            "translation": "only; solely"
+          },
+          {
+            "surface": "de",
+            "lemma": "de",
+            "translation": "of; from"
+          },
+          {
+            "surface": "elegir",
+            "lemma": "elegir",
+            "translation": "to choose"
+          },
+          {
+            "surface": "buenos",
+            "lemma": "bueno",
+            "translation": "good"
+          },
+          {
+            "surface": "ingredientes.",
+            "lemma": "ingrediente",
+            "translation": "ingredients"
+          }
+        ]
+      },
+      {
+        "start": 7.119,
+        "end": 11.612,
+        "text": "También importa que sigan existiendo estos pequeños comercios.",
+        "translation": "It also matters that these small shops continue to exist.",
+        "words": [
+          {
+            "surface": "También",
+            "lemma": "también",
+            "translation": "also; too"
+          },
+          {
+            "surface": "importa",
+            "lemma": "importar",
+            "translation": "it matters"
+          },
+          {
+            "surface": "que",
+            "lemma": "que",
+            "translation": "that; which"
+          },
+          {
+            "surface": "sigan",
+            "lemma": "seguir",
+            "translation": "they continue"
+          },
+          {
+            "surface": "existiendo",
+            "lemma": "existir",
+            "translation": "existing"
+          },
+          {
+            "surface": "estos",
+            "lemma": "este",
+            "translation": "these"
+          },
+          {
+            "surface": "pequeños",
+            "lemma": "pequeño",
+            "translation": "small"
+          },
+          {
+            "surface": "comercios.",
+            "lemma": "comercio",
+            "translation": "shops; businesses"
+          }
+        ]
+      }
+    ]
+  },
+  "musica-recuerdo": {
+    "duration": 10.8,
+    "transcript": [
+      {
+        "start": 0.1,
+        "end": 3.328,
+        "text": "Basta con escuchar una melodía para que vuelva un recuerdo.",
+        "translation": "Just hearing a melody is enough to bring back a memory.",
+        "words": [
+          {
+            "surface": "Basta",
+            "lemma": "bastar",
+            "translation": "it is enough"
+          },
+          {
+            "surface": "con",
+            "lemma": "con",
+            "translation": "with"
+          },
+          {
+            "surface": "escuchar",
+            "lemma": "escuchar",
+            "translation": "to listen to; to hear"
+          },
+          {
+            "surface": "una",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "melodía",
+            "lemma": "melodía",
+            "translation": "melody; tune"
+          },
+          {
+            "surface": "para",
+            "lemma": "para",
+            "translation": "for; to"
+          },
+          {
+            "surface": "que",
+            "lemma": "que",
+            "translation": "that; which"
+          },
+          {
+            "surface": "vuelva",
+            "lemma": "volver",
+            "translation": "returns; comes back"
+          },
+          {
+            "surface": "un",
+            "lemma": "un",
+            "translation": "a; an"
+          },
+          {
+            "surface": "recuerdo.",
+            "lemma": "recuerdo",
+            "translation": "memory"
+          }
+        ]
+      },
+      {
+        "start": 3.328,
+        "end": 6.573,
+        "text": "Hay canciones que asocio con las calles donde las descubrí.",
+        "translation": "There are songs I associate with the streets where I discovered them.",
+        "words": [
+          {
+            "surface": "Hay",
+            "lemma": "haber",
+            "translation": "there is; there are"
+          },
+          {
+            "surface": "canciones",
+            "lemma": "canción",
+            "translation": "songs"
+          },
+          {
+            "surface": "que",
+            "lemma": "que",
+            "translation": "that; which"
+          },
+          {
+            "surface": "asocio",
+            "lemma": "asociar",
+            "translation": "I associate"
+          },
+          {
+            "surface": "con",
+            "lemma": "con",
+            "translation": "with"
+          },
+          {
+            "surface": "las",
+            "lemma": "el",
+            "translation": "the; them"
+          },
+          {
+            "surface": "calles",
+            "lemma": "calle",
+            "translation": "streets"
+          },
+          {
+            "surface": "donde",
+            "lemma": "donde",
+            "translation": "where"
+          },
+          {
+            "surface": "las",
+            "lemma": "el",
+            "translation": "the; them"
+          },
+          {
+            "surface": "descubrí.",
+            "lemma": "descubrir",
+            "translation": "I discovered"
+          }
+        ]
+      },
+      {
+        "start": 6.573,
+        "end": 10.8,
+        "text": "Es como si cada viaje tuviera su propia banda sonora.",
+        "translation": "It's as though every trip had its own soundtrack.",
+        "words": [
+          {
+            "surface": "Es",
+            "lemma": "ser",
+            "translation": "is"
+          },
+          {
+            "surface": "como",
+            "lemma": "como",
+            "translation": "as; like"
+          },
+          {
+            "surface": "si",
+            "lemma": "si",
+            "translation": "if"
+          },
+          {
+            "surface": "cada",
+            "lemma": "cada",
+            "translation": "each; every"
+          },
+          {
+            "surface": "viaje",
+            "lemma": "viaje",
+            "translation": "trip; journey"
+          },
+          {
+            "surface": "tuviera",
+            "lemma": "tener",
+            "translation": "had"
+          },
+          {
+            "surface": "su",
+            "lemma": "su",
+            "translation": "his; her; its; their"
+          },
+          {
+            "surface": "propia",
+            "lemma": "propio",
+            "translation": "own"
+          },
+          {
+            "surface": "banda",
+            "lemma": "banda",
+            "translation": "band"
+          },
+          {
+            "surface": "sonora.",
+            "lemma": "sonoro",
+            "translation": "sound-related"
+          }
+        ]
+      }
+    ]
+  }
+}

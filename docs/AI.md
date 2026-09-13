@@ -1,0 +1,17 @@
+# Contextual AI and demo mode
+
+Both route handlers use `lib/ai.ts`, protected by the `server-only` import. Browser components call `/api/explain` and `/api/tutor`; keys are never included in browser requests or responses.
+
+Set `OPENAI_API_KEY` on the server to enable live responses. `OPENAI_MODEL` overrides the default `gpt-4.1-mini`, chosen for this small text task because it supports the Responses API and structured outputs with low latency. Use a model available to your API project that supports those features. The existing local `.env` is private; on Vercel, configure these variables in project environment settings. Do not use a `NEXT_PUBLIC_` prefix for either variable.
+
+The implementation uses native `fetch` to `https://api.openai.com/v1/responses`, with strict JSON schemas and `store: false`. It reads output text from message content rather than assuming the first output item is a message. It validates output fields again before returning them. The official references are [GPT-4.1 mini](https://developers.openai.com/api/docs/models/gpt-4.1-mini), [structured outputs](https://developers.openai.com/api/docs/guides/structured-outputs), and [Responses create](https://developers.openai.com/api/reference/cli/resources/responses/methods/create).
+
+Requests have an eight-second provider deadline with cancellation and no retries. Missing keys, HTTP errors, network failures, timeouts, refusals, incomplete responses, malformed JSON, and invalid output all select deterministic demo responses. There is no provider-error or credential logging. Tutor responses carry `source: "ai" | "demo"`; word explanations return the five documented fields at the top level plus the same source field. The UI can show demo provenance without exposing provider details.
+
+Offline word explanations use a small explicit glossary, or a short supplied word translation. A full sentence translation is used as context, not presented as an invented dictionary definition. Unknown words receive an honest contextual explanation and the original sentence as the example. Seed vocabulary definitions should be used first and cached by word/context on the client.
+
+Offline tutor answers use the supplied transcript and English translation. Meaning, summary, grammar, and practice prompts take separate deterministic paths. Grammar examples are selected only when their construction occurs in the transcript. Tutor text is capped at 120 whitespace-delimited words. Demo mode is deliberately a limited teaching aid, not a general translation model. It cannot reliably answer arbitrary questions about unknown words or subtler grammar.
+
+Every body is limited to 32 KiB, counted from the request stream. Explain inputs require string language (40 characters), word (80), sentence (3,000), and supporting translation (3,000). Tutor inputs require string question (600), transcript (12,000), translation (12,000), and a finite numeric learner level from 1 to 5, including adaptive fractional levels. Translation may be empty; the other strings must contain text. Invalid inputs receive 400; oversized bodies receive 413. Replies use `Cache-Control: no-store`.
+
+Focused verification: `npm run test -- tests/ai.test.ts tests/ai-routes.test.ts`. Tests stub environment variables and network calls, including provider hangs. They never use a real API key. Input and output bounds reduce accidental work, but this hackathon implementation does not add an authentication, rate-limit, or billing infrastructure layer.

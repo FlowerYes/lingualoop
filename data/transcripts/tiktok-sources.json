@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tiktok-primera-tortilla",
+    "sourceUrl": "https://www.tiktok.com/@ninivaleongil/video/7420869893882416417",
+    "creator": "ninivaleongil",
+    "handle": "@ninivaleongil",
+    "originalPublished": "2024-10-01T18:05:23+00:00",
+    "sourceStart": 9,
+    "sourceEnd": 25.6,
+    "originalDuration": 114.866667,
+    "transcription": "Local Whisper small speech timestamps; TikTok Spanish ASR cues, text reviewed with local ASR; English manually reviewed",
+    "downloaded": "2026-09-12"
+  },
+  {
+    "id": "tiktok-es-hora-de-comer",
+    "sourceUrl": "https://www.tiktok.com/@spanishforeveryday/video/6926939216555429125",
+    "creator": "Spanish for Everyday",
+    "handle": "@spanishforeveryday",
+    "originalPublished": "2021-02-08T17:02:08+00:00",
+    "sourceStart": 0,
+    "sourceEnd": 13.366667,
+    "originalDuration": 13.366667,
+    "transcription": "Local Whisper small speech timestamps; Spanish speech locally transcribed; English manually translated",
+    "downloaded": "2026-09-12"
+  },
+  {
+    "id": "tiktok-san-salvador",
+    "sourceUrl": "https://www.tiktok.com/@pauliinog/video/7061719545567923461",
+    "creator": "PaulinoG",
+    "handle": "@pauliinog",
+    "originalPublished": "2022-02-06T21:58:28+00:00",
+    "sourceStart": 72.2,
+    "sourceEnd": 86.7,
+    "originalDuration": 107.043991,
+    "transcription": "Local Whisper small speech timestamps; TikTok Spanish ASR cues, text reviewed with local ASR; English manually reviewed",
+    "downloaded": "2026-09-12"
+  }
+]

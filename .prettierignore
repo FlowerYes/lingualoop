@@ -1,0 +1,6 @@
+node_modules
+.next
+public
+data
+scripts/media-originals
+package-lock.json

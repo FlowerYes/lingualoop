@@ -1,0 +1,351 @@
+[
+  {
+    "id": "cafe-madrid",
+    "scene": "cafe",
+    "creator": "Lucía Serrano",
+    "handle": "lucia.por.madrid",
+    "title": "Un café, por favor",
+    "location": "Madrid, España",
+    "difficulty": 1,
+    "topics": [
+      "Food",
+      "Travel",
+      "Everyday"
+    ],
+    "voice": "Mónica",
+    "rate": 142,
+    "captions": [
+      [
+        "Hola, un café con leche, por favor.",
+        "Hi, a coffee with milk, please."
+      ],
+      [
+        "¿Para tomar aquí o para llevar?",
+        "To have here or to go?"
+      ],
+      [
+        "Para tomar aquí. Me gusta esta terraza.",
+        "To have here. I like this terrace."
+      ]
+    ]
+  },
+  {
+    "id": "mercado-colores",
+    "scene": "market",
+    "creator": "Inés Vidal",
+    "handle": "ines.en.el.mercado",
+    "title": "Colores del mercado",
+    "location": "Valencia, España",
+    "difficulty": 1,
+    "topics": [
+      "Food",
+      "Everyday"
+    ],
+    "voice": "Mónica",
+    "rate": 145,
+    "captions": [
+      [
+        "Mira estos tomates. Son rojos y grandes.",
+        "Look at these tomatoes. They are red and big."
+      ],
+      [
+        "También hay naranjas y pimientos.",
+        "There are also oranges and peppers."
+      ],
+      [
+        "Quiero una bolsa de tomates, por favor.",
+        "I would like a bag of tomatoes, please."
+      ]
+    ]
+  },
+  {
+    "id": "calle-granada",
+    "scene": "granada",
+    "creator": "Álex Ríos",
+    "handle": "alex.sin.prisa",
+    "title": "Una calle con encanto",
+    "location": "Granada, España",
+    "difficulty": 1,
+    "topics": [
+      "Travel",
+      "Culture"
+    ],
+    "voice": "Mónica",
+    "rate": 145,
+    "captions": [
+      [
+        "Esta calle es pequeña y muy bonita.",
+        "This street is small and very pretty."
+      ],
+      [
+        "Las casas son blancas. Hay muchas flores.",
+        "The houses are white. There are lots of flowers."
+      ],
+      [
+        "Vamos a caminar un poco más.",
+        "Let's walk a little further."
+      ]
+    ]
+  },
+  {
+    "id": "desayuno-sin-prisa",
+    "scene": "cafe",
+    "creator": "Lucía Serrano",
+    "handle": "lucia.por.madrid",
+    "title": "Desayunar sin prisa",
+    "location": "Madrid, España",
+    "difficulty": 2,
+    "topics": [
+      "Food",
+      "Everyday"
+    ],
+    "voice": "Mónica",
+    "rate": 152,
+    "captions": [
+      [
+        "Los domingos desayuno fuera de casa.",
+        "On Sundays I have breakfast away from home."
+      ],
+      [
+        "Pido un café y algo dulce.",
+        "I order a coffee and something sweet."
+      ],
+      [
+        "Lo mejor es sentarse al sol y leer tranquilamente.",
+        "The best part is sitting in the sun and reading peacefully."
+      ]
+    ]
+  },
+  {
+    "id": "perderse-granada",
+    "scene": "granada",
+    "creator": "Álex Ríos",
+    "handle": "alex.sin.prisa",
+    "title": "El mejor camino",
+    "location": "Granada, España",
+    "difficulty": 2,
+    "topics": [
+      "Travel",
+      "Culture"
+    ],
+    "voice": "Mónica",
+    "rate": 154,
+    "captions": [
+      [
+        "Para llegar al mirador, sube por esta calle.",
+        "To get to the viewpoint, go up this street."
+      ],
+      [
+        "Después gira a la derecha, junto a las flores.",
+        "Then turn right, next to the flowers."
+      ],
+      [
+        "Las vistas merecen la pena.",
+        "The views are worth it."
+      ]
+    ]
+  },
+  {
+    "id": "paseo-verde",
+    "scene": "nature",
+    "creator": "Nora Montes",
+    "handle": "nora.al.aire",
+    "title": "Un respiro en verde",
+    "location": "Asturias, España",
+    "difficulty": 2,
+    "topics": [
+      "Nature",
+      "Travel"
+    ],
+    "voice": "Mónica",
+    "rate": 150,
+    "captions": [
+      [
+        "Hoy hemos salido temprano para caminar.",
+        "Today we set out early to go walking."
+      ],
+      [
+        "El aire está fresco y el camino está tranquilo.",
+        "The air is cool and the trail is quiet."
+      ],
+      [
+        "Lleva agua y unos zapatos cómodos.",
+        "Bring water and comfortable shoes."
+      ]
+    ]
+  },
+  {
+    "id": "tomate-temporada",
+    "scene": "market",
+    "creator": "Inés Vidal",
+    "handle": "ines.en.el.mercado",
+    "title": "Sabe a verano",
+    "location": "Valencia, España",
+    "difficulty": 3,
+    "topics": [
+      "Food",
+      "Culture"
+    ],
+    "voice": "Mónica",
+    "rate": 162,
+    "captions": [
+      [
+        "Cuando compro tomates, prefiero los de temporada.",
+        "When I buy tomatoes, I prefer the seasonal ones."
+      ],
+      [
+        "No hace falta que tengan una forma perfecta.",
+        "They don't need to have a perfect shape."
+      ],
+      [
+        "Si huelen bien, seguramente tendrán mucho sabor.",
+        "If they smell good, they will probably have lots of flavor."
+      ]
+    ]
+  },
+  {
+    "id": "patios-con-historia",
+    "scene": "granada",
+    "creator": "Álex Ríos",
+    "handle": "alex.sin.prisa",
+    "title": "Lo que cuentan las calles",
+    "location": "Granada, España",
+    "difficulty": 3,
+    "topics": [
+      "Culture",
+      "Travel"
+    ],
+    "voice": "Mónica",
+    "rate": 164,
+    "captions": [
+      [
+        "Antes de mirar el mapa, me gusta observar las casas.",
+        "Before looking at the map, I like to observe the houses."
+      ],
+      [
+        "Cada puerta parece guardar una historia distinta.",
+        "Every door seems to hold a different story."
+      ],
+      [
+        "Por eso siempre acabo caminando más de lo previsto.",
+        "That's why I always end up walking further than planned."
+      ]
+    ]
+  },
+  {
+    "id": "charla-terraza",
+    "scene": "cafe",
+    "creator": "Lucía Serrano",
+    "handle": "lucia.por.madrid",
+    "title": "¿Nos tomamos algo?",
+    "location": "Madrid, España",
+    "difficulty": 3,
+    "topics": [
+      "Everyday",
+      "Culture"
+    ],
+    "voice": "Mónica",
+    "rate": 163,
+    "captions": [
+      [
+        "En cuanto tengo un rato libre, llamo a una amiga.",
+        "As soon as I have a free moment, I call a friend."
+      ],
+      [
+        "Quedamos en una terraza para ponernos al día.",
+        "We meet on a terrace to catch up."
+      ],
+      [
+        "A veces un café se convierte en toda una tarde.",
+        "Sometimes a coffee turns into an entire afternoon."
+      ]
+    ]
+  },
+  {
+    "id": "montana-silencio",
+    "scene": "nature",
+    "creator": "Nora Montes",
+    "handle": "nora.al.aire",
+    "title": "Escuchar el silencio",
+    "location": "Asturias, España",
+    "difficulty": 4,
+    "topics": [
+      "Nature",
+      "Everyday"
+    ],
+    "voice": "Mónica",
+    "rate": 172,
+    "captions": [
+      [
+        "Aunque la subida sea exigente, merece la pena detenerse.",
+        "Although the climb is demanding, it is worth stopping."
+      ],
+      [
+        "Cuanto menos ruido hacemos, más detalles percibimos.",
+        "The less noise we make, the more details we notice."
+      ],
+      [
+        "Ojalá aprendiéramos a llevar esa calma a la vida cotidiana.",
+        "I wish we could learn to bring that calm into everyday life."
+      ]
+    ]
+  },
+  {
+    "id": "comprar-cercano",
+    "scene": "market",
+    "creator": "Inés Vidal",
+    "handle": "ines.en.el.mercado",
+    "title": "Comprar con intención",
+    "location": "Valencia, España",
+    "difficulty": 4,
+    "topics": [
+      "Food",
+      "Culture"
+    ],
+    "voice": "Mónica",
+    "rate": 172,
+    "captions": [
+      [
+        "Si dependiera de mí, dedicaríamos más tiempo a comprar cerca.",
+        "If it were up to me, we would spend more time shopping locally."
+      ],
+      [
+        "No se trata únicamente de elegir buenos ingredientes.",
+        "It isn't only about choosing good ingredients."
+      ],
+      [
+        "También importa que sigan existiendo estos pequeños comercios.",
+        "It also matters that these small shops continue to exist."
+      ]
+    ]
+  },
+  {
+    "id": "musica-recuerdo",
+    "scene": "granada",
+    "creator": "Álex Ríos",
+    "handle": "alex.sin.prisa",
+    "title": "Una canción, un lugar",
+    "location": "Granada, España",
+    "difficulty": 4,
+    "topics": [
+      "Music",
+      "Travel"
+    ],
+    "voice": "Mónica",
+    "rate": 172,
+    "captions": [
+      [
+        "Basta con escuchar una melodía para que vuelva un recuerdo.",
+        "Just hearing a melody is enough to bring back a memory."
+      ],
+      [
+        "Hay canciones que asocio con las calles donde las descubrí.",
+        "There are songs I associate with the streets where I discovered them."
+      ],
+      [
+        "Es como si cada viaje tuviera su propia banda sonora.",
+        "It's as though every trip had its own soundtrack."
+      ]
+    ]
+  }
+]

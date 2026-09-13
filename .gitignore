@@ -1,0 +1,19 @@
+node_modules/
+.next/
+.env*
+!.env.example
+coverage/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.DS_Store
+
+# Generated presentations, recordings, and frozen build copies
+/artifacts/
+/docs/pitch/
+/docs/demo/
+
+# Local editor and agent state
+/.codex/
+/.agents/
+*.log

@@ -1,0 +1,57 @@
+{
+  "verifiedAt": "2026-09-12T22:44:56.790Z",
+  "clips": 3,
+  "captionSegments": 18,
+  "vocabularyTokens": 60,
+  "totalVideoBytes": 8686100,
+  "details": [
+    {
+      "id": "tiktok-primera-tortilla",
+      "path": "/videos/tiktok/primera-tortilla.mp4",
+      "duration": 16.6,
+      "width": 576,
+      "height": 1024,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "audioSampleRate": 96000,
+      "audioChannels": 2,
+      "meanVolumeDb": -24.5,
+      "bytes": 3142311,
+      "captions": 7,
+      "firstCaptionStart": 0,
+      "decoded": true
+    },
+    {
+      "id": "tiktok-es-hora-de-comer",
+      "path": "/videos/tiktok/es-hora-de-comer.mp4",
+      "duration": 13.366667,
+      "width": 576,
+      "height": 1024,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "audioSampleRate": 44100,
+      "audioChannels": 2,
+      "meanVolumeDb": -23.4,
+      "bytes": 2481068,
+      "captions": 3,
+      "firstCaptionStart": 7.38,
+      "decoded": true
+    },
+    {
+      "id": "tiktok-san-salvador",
+      "path": "/videos/tiktok/san-salvador.mp4",
+      "duration": 14.5,
+      "width": 576,
+      "height": 1024,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "audioSampleRate": 44100,
+      "audioChannels": 2,
+      "meanVolumeDb": -21.9,
+      "bytes": 3062721,
+      "captions": 8,
+      "firstCaptionStart": 0,
+      "decoded": true
+    }
+  ]
+}

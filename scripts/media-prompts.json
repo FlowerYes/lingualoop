@@ -1,0 +1,30 @@
+{
+  "tool": "Built-in image_gen.imagegen (no custom OpenAI API calls)",
+  "date": "2026-09-12",
+  "assets": [
+    {
+      "key": "cafe",
+      "original": "scripts/media-originals/cafe.png",
+      "sha256": "88be177b6c541dfbaff4fe355d66cf40d744bcb10d4fc33059baa69601d6e881",
+      "prompt": "Use case: photorealistic-natural. Asset type: original portrait scene for a Spanish immersion video. Primary request: create one beautiful realistic candid editorial photograph, vertical 9:16, from a seated point of view at a sidewalk café in Madrid on a warm late-summer morning. Foreground center a single beautiful cream ceramic cup of café con leche on a saucer on a small dark marble table, small croissant and metal teaspoon nearby; left side gentle hand holding the handle. Midground café frontage with striped fabric awning, background charming narrow Madrid street with warm ochre historic façades and a couple of tiny casually dressed pedestrians. Coffee and tabletop at center and lower-middle; airy street depth in upper half. Authentic materials, pale terracotta, warm cream, soft dark espresso tones, shafts of natural morning sunlight, cinematic shallow depth of field with crisp coffee cup. Premium travel magazine photography, subtle film grain, 50mm lens, realistic unsaturated colors. No text, signs must be indistinct, no logos, no watermarks, no graphics, no UI. It is a fictional staged scene, not depicting a real creator."
+    },
+    {
+      "key": "granada",
+      "original": "scripts/media-originals/granada.png",
+      "sha256": "43f7f09a65f31d977aaedb2fde21906602095e467bf6372d4c506727498d6c3d",
+      "prompt": "Use case: photorealistic-natural. Asset type: original vertical 9:16 scene for a Spanish immersion travel video. Create one beautiful candid editorial photograph of an authentic narrow Granada street in Spain, white limewashed houses, richly textured pale cream and ochre plaster, weathered dark wood door, pots of green leaves and pink flowers, warm terracotta tiles, small cobblestones, distant glimpse of Alhambra-like hill skyline under pale blue sky. A tiny person in linen clothes walking naturally away in the background for scale. Strong sense of depth, soft late afternoon natural sunlight and gentle shadow, realistic quiet travel moment. Premium travel magazine photography, crisp textures, 35mm lens, subtle film grain, restrained warm tones. Street center leads upward; no text, logos, watermark, graphics or UI. Fictional staged location study."
+    },
+    {
+      "key": "market",
+      "original": "scripts/media-originals/market.png",
+      "sha256": "ebd54ff5deb8dce0b760c1bc81331638d4eca85fd1f84f06bce1a428dd2d816f",
+      "prompt": "Use case: photorealistic-natural. Asset type: original vertical 9:16 scene for a Spanish immersion food video. Create one beautiful realistic candid editorial photograph of a Spanish market produce stall in a historic covered market in Valencia. At center baskets brimming with very fresh tomatoes, heirloom tomatoes, red peppers, ripe oranges; market vendor's hand lightly selecting a tomato at mid-height. In lower foreground a warm wooden counter with simple unbranded paper grocery bag. Upper background brick arches, glimpses of tiled ceiling and blurred shoppers, natural soft daylight through high windows. Premium food and travel magazine photography, vibrant but believable produce colors, warm sienna and olive tones, realistic materials and imperfect fruits, 50mm lens with gentle depth of field, subtle film grain. Distinct foreground center subject; enough depth to feel immersed. No legible signs, no text, no logo, no watermark or UI. Fictional staged scene."
+    },
+    {
+      "key": "nature",
+      "original": "scripts/media-originals/nature.png",
+      "sha256": "2c4389af0f89c98453fbc111a88eb2123fcf92026a642f0959692e963db8dbbb",
+      "prompt": "Use case: photorealistic-natural. Asset type: original portrait 9:16 visual for a Spanish immersion nature video. Create one beautiful realistic editorial photograph of a quiet walking path in the Picos de Europa region of northern Spain, lush green hillside, limestone mountains in the distant upper third partly veiled by thin morning mist, narrow dirt and stone path curving up from lower center through dew-covered ferns and small wildflowers; two tiny hikers in earth-tone outdoor clothing walking away around the distant bend. Soft golden morning light grazing grasses, pale soft blue sky, cinematic natural atmosphere, believable detailed foliage and rock textures. Premium travel photography, 35mm, restrained emerald and sage colors, subtle film grain, quiet immersive atmosphere. No signs, no text, no logos, watermarks, or UI. Fictional staged landscape study."
+    }
+  ]
+}
